@@ -40,7 +40,7 @@ Visual representation of customers based on Income vs. Spending Score.
 ## 🚀 How to Run
 1. Clone the repo.
 2. Install requirements: `pip install -r requirements.txt`
-3. Run: `python customer_segmentation.py`
+3. Run: `python MCS.py`
 
 ## 🎯 Conclusion
 By identifying these 5 distinct segments, businesses can transition from a "one-size-fits-all" marketing approach to **data-driven personalization**, potentially increasing conversion rates and optimizing marketing spend.
