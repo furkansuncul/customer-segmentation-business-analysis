@@ -18,7 +18,7 @@ The dataset used in this analysis is the **Mall Customer Segmentation Data** fro
 ## 📁 Project Structure
 - `data/`: Raw dataset (`Mall_Customers.csv`).
 - `visuals/`: Automatically generated plots for WCSS and Segment Distribution.
-- `customer_segmentation.py`: Main script with prediction logic.
+- `MCS.py`: Main script with prediction logic.
 - `segmentation_report.csv`: Automated export of cluster statistics.
 
 ### 1. The Elbow Method
